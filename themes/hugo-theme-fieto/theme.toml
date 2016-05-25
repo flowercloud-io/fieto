@@ -1,0 +1,12 @@
+name = "Hugo Theme Fieto"
+license = "MIT"
+licenselink = "https://github.com/flowercloud-io/fieto/blob/master/LICENSE.md"
+description = ""
+homepage = "http://fieto.com.br/"
+tags = ["", ""]
+features = ["", ""]
+min_version = 0.14
+
+[author]
+  name = "Flowercloud"
+  homepage = "www.flowercloud.io"
