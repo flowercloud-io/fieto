@@ -1,0 +1,10 @@
+baseurl = "http://replace-this-with-your-hugo-site.com/"
+languageCode = "pt-br"
+title = "Portal FIETO"
+
+# google analytics tracking id
+googleAnalytics = ""
+
+[Params]
+  Author = "flowercloud"
+
